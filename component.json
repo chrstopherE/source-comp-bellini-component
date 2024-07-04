@@ -1,0 +1,42 @@
+{
+  "type": "component",
+  "name": "source-comp",
+  "children": [
+    {
+      "name": "Button",
+      "nodeName": "bln-button",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "XSj3Y8"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "id": "button",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}
